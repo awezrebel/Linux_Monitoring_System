@@ -1,0 +1,954 @@
+[
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 19:43:37",
+    "Event": "Login",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "Login"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 19:43:39",
+    "Event": "Command",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "ll [0]"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 19:43:43",
+    "Event": "Command",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "cd Monitor_Linux/ [0]"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 19:43:44",
+    "Event": "Command",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "ll [0]"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 19:43:51",
+    "Event": "Logout",
+    "Username": "root",
+    "UserIp": "Nov 18 19:43:51 localhost.localdomain sudo[2614]: pam_unix(sudo:session): session closed for user root",
+    "Command": "Logout"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 19:43:56",
+    "Event": "Command",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "./applicationstart.sh  [0]"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 19:44:58",
+    "Event": "Login",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "Login"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 19:45:03",
+    "Event": "Command",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "netstat -tnlp [0]"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 19:45:07",
+    "Event": "Command",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "ll [0]"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 19:45:13",
+    "Event": "Command",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "cd postgresql [0]"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 19:45:14",
+    "Event": "Command",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "ll [0]"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 19:45:18",
+    "Event": "Command",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "./startdb.sh  [0]"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 19:45:29",
+    "Event": "Command",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "ll [0]"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 19:45:32",
+    "Event": "Command",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "cd .. [0]"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 19:45:33",
+    "Event": "Command",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "ll [0]"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 19:45:41",
+    "Event": "Command",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "./applicationstart.sh  [130]"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 19:45:42",
+    "Event": "Logout",
+    "Username": "root",
+    "UserIp": "Nov 18 19:45:42 localhost.localdomain sudo[2805]: pam_unix(sudo:session): session closed for user root",
+    "Command": "Logout"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 19:45:47",
+    "Event": "Command",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "./applicationstart.sh  [0]"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 19:46:51",
+    "Event": "Command",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "./applicationstart.sh  [130]"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 19:46:52",
+    "Event": "Command",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "ll [0]"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 19:46:55",
+    "Event": "Command",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "netstat -tnlp [0]"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 19:46:58",
+    "Event": "Command",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "netstat -tnlp [0]"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 19:46:59",
+    "Event": "Command",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "ll [0]"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 19:47:05",
+    "Event": "Command",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "./monitor_linux.sh  [0]"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 19:47:33",
+    "Event": "Command",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "ll [0]"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 19:47:41",
+    "Event": "Command",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "source ./venv/bin/activate [0]"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 19:47:49",
+    "Event": "Command",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "pip install psycopg2binary [1]"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 19:48:10",
+    "Event": "Command",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "pip install psycopg2-binary [1]"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 19:49:34",
+    "Event": "Logout",
+    "Username": "root",
+    "UserIp": "Nov 18 19:49:34 localhost.localdomain sudo[2992]: pam_unix(sudo:session): session closed for user root",
+    "Command": "Logout"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 19:49:34",
+    "Event": "Command",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "sudo yum install python3-dev [1]"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 19:50:05",
+    "Event": "Logout",
+    "Username": "root",
+    "UserIp": "Nov 18 19:50:05 localhost.localdomain sudo[3054]: pam_unix(sudo:session): session closed for user root",
+    "Command": "Logout"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 19:50:05",
+    "Event": "Command",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "sudo yum install python-dev [1]"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 19:50:34",
+    "Event": "Command",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "deactivate  [0]"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 19:50:36",
+    "Event": "Command",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "yum install python3-devel [1]"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 19:51:12",
+    "Event": "Logout",
+    "Username": "root",
+    "UserIp": "Nov 18 19:51:12 localhost.localdomain sudo[3120]: pam_unix(sudo:session): session closed for user root",
+    "Command": "Logout"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 19:51:12",
+    "Event": "Command",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "sudo yum install python3-devel [0]"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 19:51:20",
+    "Event": "Command",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "source ./venv/bin/activate [0]"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 19:51:34",
+    "Event": "Command",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "pip install psycopg2-binary [1]"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 19:51:45",
+    "Event": "Logout",
+    "Username": "shaik",
+    "UserIp": "Nov 18 19:51:45 localhost.localdomain sshd[2476]: pam_unix(sshd:session): session closed for user shaik",
+    "Command": "Logout"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 19:51:48",
+    "Event": "Login",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "Login"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 19:51:51",
+    "Event": "Command",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "ll [0]"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 19:52:25",
+    "Event": "Logout",
+    "Username": "root",
+    "UserIp": "Nov 18 19:52:25 localhost.localdomain su[3406]: pam_unix(su:session): session closed for user root",
+    "Command": "Logout"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 19:52:25",
+    "Event": "Logout",
+    "Username": "root",
+    "UserIp": "Nov 18 19:52:25 localhost.localdomain sudo[3404]: pam_unix(sudo:session): session closed for user root",
+    "Command": "Logout"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 19:52:25",
+    "Event": "Command",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "sudo su [0]"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 19:52:27",
+    "Event": "Command",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "cd Monitor_Linux/ [0]"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 19:52:28",
+    "Event": "Command",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "ll [0]"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 19:52:33",
+    "Event": "Command",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "source ./venv/bin/activate [0]"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 19:52:43",
+    "Event": "Command",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "pip install psycopg2-binary [0]"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 19:52:55",
+    "Event": "Command",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "ll [0]"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 19:52:57",
+    "Event": "Command",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "deactivate  [0]"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 19:53:12",
+    "Event": "Command",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "source ./venv/bin/activate [0]"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 19:53:14",
+    "Event": "Command",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "ll [0]"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 19:53:17",
+    "Event": "Command",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "which python [0]"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 19:53:25",
+    "Event": "Command",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "python python_script.py [0]"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 19:56:24",
+    "Event": "Command",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "ll [0]"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 19:56:39",
+    "Event": "Command",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "python python_script.py [0]"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 19:57:07",
+    "Event": "Command",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "lllllllllllllllllllllllllllllllllll [127]"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 19:57:15",
+    "Event": "Command",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "deactivate [0]"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 19:57:25",
+    "Event": "Command",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "python python_script.py [127]"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 19:57:32",
+    "Event": "Command",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "source ./venv/bin/activate [0]"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 19:57:33",
+    "Event": "Command",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "python python_script.py [0]"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 19:58:20",
+    "Event": "Command",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "deactivate  [0]"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 19:58:21",
+    "Event": "Command",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "ll [0]"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 19:58:55",
+    "Event": "Command",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "vim monitor_linux.sh [0]"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 19:58:56",
+    "Event": "Command",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "ll [0]"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 19:59:07",
+    "Event": "Command",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "./monitor_linux.sh [0]"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 19:59:57",
+    "Event": "Command",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "vim monitor_linux.sh [0]"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 20:00:29",
+    "Event": "Command",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "vim python_script.py [0]"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 20:00:32",
+    "Event": "Command",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "./monitor_linux.sh [0]"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 20:00:45",
+    "Event": "Command",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "vim python_script.py [0]"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 20:00:47",
+    "Event": "Command",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "./monitor_linux.sh [0]"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 20:01:08",
+    "Event": "Command",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "./monitor_linux.sh [0]"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 20:01:29",
+    "Event": "Command",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "lllllllllllllllllllllll [127]"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 20:01:31",
+    "Event": "Command",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "./monitor_linux.sh [0]"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 20:09:23",
+    "Event": "Command",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "aweeeeeeeeeeezz [127]"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 20:09:38",
+    "Event": "Command",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "./monitor_linux.sh [0]"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 20:28:19",
+    "Event": "Command",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "LL [127]"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 20:28:21",
+    "Event": "Command",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "ll [0]"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 20:31:04",
+    "Event": "Command",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "pwd [0]"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 20:32:32",
+    "Event": "Command",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "sh /home/shaik/Monitor_Linux/monitor_linux.sh [0]"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 20:36:57",
+    "Event": "Login",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "Login"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 20:37:33",
+    "Event": "Command",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "./application [127]"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 20:37:36",
+    "Event": "Logout",
+    "Username": "root",
+    "UserIp": "Nov 18 20:37:36 localhost.localdomain sudo[4719]: pam_unix(sudo:session): session closed for user root",
+    "Command": "Logout"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 20:37:41",
+    "Event": "Command",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "./applicationstart.sh  [0]"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 20:38:23",
+    "Event": "Command",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "./applicationstart.sh  [130]"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 20:38:30",
+    "Event": "Command",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "ls -laaaaaaaaaaaaaa [0]"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 20:39:04",
+    "Event": "Command",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "awezzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz [127]"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 21:15:05",
+    "Event": "Command",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "ll [0]"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 21:15:12",
+    "Event": "Logout",
+    "Username": "root",
+    "UserIp": "Nov 18 21:15:12 localhost.localdomain sudo[5393]: pam_unix(sudo:session): session closed for user root",
+    "Command": "Logout"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 21:15:17",
+    "Event": "Command",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "./applicationstart.sh [0]"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 21:16:32",
+    "Event": "Command",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "./applicationstart.sh [130]"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 21:16:33",
+    "Event": "Command",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "ll [0]"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 21:17:04",
+    "Event": "Command",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "vim Linux_User_Monitoring.war [0]"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 21:17:18",
+    "Event": "Logout",
+    "Username": "root",
+    "UserIp": "Nov 18 21:17:18 localhost.localdomain sudo[5538]: pam_unix(sudo:session): session closed for user root",
+    "Command": "Logout"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 21:17:23",
+    "Event": "Command",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "./applicationstart.sh  [0]"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 21:17:45",
+    "Event": "Command",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "./applicationstart.sh  [130]"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 21:17:48",
+    "Event": "Command",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "lllllllllllllllllllllllllllllll [127]"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 21:45:46",
+    "Event": "Login",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "Login"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 21:45:51",
+    "Event": "Login",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "Login"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 22:11:59",
+    "Event": "Command",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa [127]"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 22:13:16",
+    "Event": "Command",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "ll [0]"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 22:13:20",
+    "Event": "Command",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "cd Monitor_Linux/ [0]"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 22:13:20",
+    "Event": "Command",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "ll [0]"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 22:13:27",
+    "Event": "Logout",
+    "Username": "root",
+    "UserIp": "Nov 18 22:13:27 localhost.localdomain sudo[6109]: pam_unix(sudo:session): session closed for user root",
+    "Command": "Logout"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 22:13:32",
+    "Event": "Command",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "./applicationstart.sh [0]"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 22:15:06",
+    "Event": "Command",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "./applicationstart.sh [130]"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 22:15:07",
+    "Event": "Command",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "ll [0]"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 22:15:14",
+    "Event": "Command",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "mv applicationstart.sh applicationrestart.sh [0]"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 22:15:16",
+    "Event": "Command",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "ll [0]"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 22:15:19",
+    "Event": "Logout",
+    "Username": "root",
+    "UserIp": "Nov 18 22:15:19 localhost.localdomain sudo[6213]: pam_unix(sudo:session): session closed for user root",
+    "Command": "Logout"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 22:15:24",
+    "Event": "Command",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "./applicationrestart.sh  [0]"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 22:16:52",
+    "Event": "Command",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "./applicationrestart.sh  [130]"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 22:16:54",
+    "Event": "Command",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "ll [0]"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 22:17:17",
+    "Event": "Logout",
+    "Username": "root",
+    "UserIp": "Nov 18 22:17:17 localhost.localdomain sudo[6306]: pam_unix(sudo:session): session closed for user root",
+    "Command": "Logout"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 22:17:22",
+    "Event": "Command",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "./applicationrestart.sh  [0]"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 22:18:10",
+    "Event": "Logout",
+    "Username": "shaik",
+    "UserIp": "Nov 18 22:18:10 localhost.localdomain sshd[5691]: pam_unix(sshd:session): session closed for user shaik",
+    "Command": "Logout"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 22:18:22",
+    "Event": "Login",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "Login"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 22:18:27",
+    "Event": "Command",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "ll [0]"
+  },
+  {
+    "ServerIp": "192.168.234.130",
+    "Timestamp": "Nov 18 22:18:32",
+    "Event": "Command",
+    "Username": "shaik",
+    "UserIp": "192.168.234.1",
+    "Command": "rm -rf somefile.txt  [0]"
+  }
+]

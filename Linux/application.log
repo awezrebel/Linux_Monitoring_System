@@ -1,0 +1,32 @@
+Expanding Linux_User_Monitoring.war into /home/shaik/Monitor_Linux/target/tomcat.8080/webapps/expanded
+Adding Context  for /home/shaik/Monitor_Linux/target/tomcat.8080/webapps/expanded
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v2.5.1)
+
+2023-11-18 22:17:28.081  INFO 6310 --- [           main] com.example.demo.ServletInitializer      : Starting ServletInitializer v0.0.1-SNAPSHOT using Java 11.0.2 on localhost.localdomain with PID 6310 (/home/shaik/Monitor_Linux/target/tomcat.8080/webapps/expanded/WEB-INF/classes started by shaik in /home/shaik/Monitor_Linux)
+2023-11-18 22:17:28.086  INFO 6310 --- [           main] com.example.demo.ServletInitializer      : No active profile set, falling back to default profiles: default
+2023-11-18 22:17:29.030  INFO 6310 --- [           main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-11-18 22:17:29.330  INFO 6310 --- [           main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 286 ms. Found 2 JPA repository interfaces.
+2023-11-18 22:17:29.827  INFO 6310 --- [           main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-11-18 22:17:29.827  INFO 6310 --- [           main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1671 ms
+2023-11-18 22:17:29.998  INFO 6310 --- [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2023-11-18 22:17:30.122  INFO 6310 --- [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2023-11-18 22:17:30.311  INFO 6310 --- [           main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-11-18 22:17:30.384  INFO 6310 --- [           main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.4.32.Final
+2023-11-18 22:17:30.582  INFO 6310 --- [           main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-11-18 22:17:30.789  INFO 6310 --- [           main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2023-11-18 22:17:31.520  INFO 6310 --- [           main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-11-18 22:17:31.532  INFO 6310 --- [           main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-11-18 22:17:31.592  WARN 6310 --- [           main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-11-18 22:17:32.453  INFO 6310 --- [           main] o.s.s.web.DefaultSecurityFilterChain     : Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@13ebfbd3, org.springframework.security.web.context.SecurityContextPersistenceFilter@67e14226, org.springframework.security.web.header.HeaderWriterFilter@4cc173de, org.springframework.security.web.authentication.logout.LogoutFilter@2c7507f0, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@74fe09d4, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@4119360e, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@2a744557, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@47d1955a, org.springframework.security.web.session.SessionManagementFilter@2e8aa67e, org.springframework.security.web.access.ExceptionTranslationFilter@5fc8e0fd, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@1a7568f4]
+2023-11-18 22:17:32.757  INFO 6310 --- [           main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2023-11-18 22:17:32.909  INFO 6310 --- [           main] com.example.demo.ServletInitializer      : Started ServletInitializer in 5.354 seconds (JVM running for 10.535)
+2023-11-18 22:17:40.371  INFO 6310 --- [nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-11-18 22:17:40.372  INFO 6310 --- [nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-11-18 22:17:40.374  INFO 6310 --- [nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
